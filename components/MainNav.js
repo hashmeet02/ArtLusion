@@ -19,7 +19,7 @@ export default function MainNav(){
         <>        
         <Navbar bg="light" expand="lg" className="fixed-top navbar-dark bg-dark">
             <Container>
-                <Navbar.Brand>Hashmeet Singh Saini</Navbar.Brand>
+                <Navbar.Brand>ArtLusion</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
